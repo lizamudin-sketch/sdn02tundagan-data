@@ -5,6 +5,6 @@
   { "kelas": "Kelas 4", "jumlah": 38 },
   { "kelas": "Kelas 5", "jumlah": 31 },
   { "kelas": "Kelas 6", "jumlah": 37 },
-  { "tenaga-pendidik": "Guru", "jumlah": 9 },
-  { "tenaga-kependidikan": "Tenaga Kependidikan", "jumlah": 1 }
+  { "tenaga pendidik": "Guru", "jumlah": 9 },
+  { "tenaga kependidikan": "Tenaga Kependidikan", "jumlah": 1 }
 ]
