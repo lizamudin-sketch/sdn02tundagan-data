@@ -1,14 +1,8 @@
 [
   {
-    "foto": "berita/contoh-berita-1.jpg",
-    "judul": "Judul Berita Pertama Ditulis Di Sini",
-    "ringkasan": "Ringkasan singkat 1-2 kalimat tentang berita ini, cukup untuk bikin orang penasaran baca selengkapnya.",
-    "link": "https://www.instagram.com/sdn02tundagan_official/"
+    "foto": "berita/berita-satu.png",
+    "judul": "Gerak Cepat Kemendikdasmen untuk Pendidikan di Flores.",
+    "ringkasan": "#SobatBelajar, Kemendikdasmen bergerak cepat memastikan layanan pendidikan tetap berjalan bagi masyarakat terdampak gempa bumi magnitudo 7,7 yang mengguncang wilayah Flores, Nusa Tenggara Timur, pada 15 Agustus 2026",
+    "link": "https://www.instagram.com/p/DcJDO8bkt2S/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==/"
   },
-  {
-    "foto": "berita/contoh-berita-2.jpg",
-    "judul": "Judul Berita Kedua Ditulis Di Sini",
-    "ringkasan": "Ringkasan singkat berita kedua.",
-    "link": "https://www.instagram.com/sdn02tundagan_official/"
-  }
 ]
