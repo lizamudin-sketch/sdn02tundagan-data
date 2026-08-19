@@ -1,0 +1,14 @@
+[
+  {
+    "foto": "berita/contoh-berita-1.jpg",
+    "judul": "Judul Berita Pertama Ditulis Di Sini",
+    "ringkasan": "Ringkasan singkat 1-2 kalimat tentang berita ini, cukup untuk bikin orang penasaran baca selengkapnya.",
+    "link": "https://www.instagram.com/sdn02tundagan_official/"
+  },
+  {
+    "foto": "berita/contoh-berita-2.jpg",
+    "judul": "Judul Berita Kedua Ditulis Di Sini",
+    "ringkasan": "Ringkasan singkat berita kedua.",
+    "link": "https://www.instagram.com/sdn02tundagan_official/"
+  }
+]
